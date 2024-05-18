@@ -23,7 +23,7 @@ export default function RootLayout({children}: LayoutProps) {
                     <NavBar></NavBar>
                 </header>
                 <main className="grow py-3">{children}</main>
-                <footer className={"border-t text-center text-xs"}>footer</footer>
+                <footer className={"border-t text-center text-xs"}>footer fran</footer>
             </body>
         </html>
     );
